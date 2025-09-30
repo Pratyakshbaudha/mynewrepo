@@ -1,4 +1,4 @@
 # mynewrepo
-author pratyaksh baudha
+author-pratyakshkushwaha
 <br>
 this is my first repository
